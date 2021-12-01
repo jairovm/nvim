@@ -4,7 +4,7 @@
 
 ```bash
 $ brew install nvim
-$ mkdir ~/.config && cd ~/.config
+$ mkdir -p ~/.config && cd ~/.config
 $ git clone git@github.com:tolerantx/nvim.git
 $ brew install fzf
 $ brew install ripgrep
